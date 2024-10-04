@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">ProConvo</string>
+    <string name="_7">7</string>
+    <string name="dot">.</string>
+    <string name="_0">0</string>
+    <string name="empty">" "</string>
+    <string name="_8">8</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_9">9</string>
+    <string name="_3">3</string>
+    <string name="textview">TextView</string>
+    <string-array name="spinner_items">
+        <item>Millimeter (mm)</item>
+        <item>Centimeter (cm)</item>
+        <item>Decimeter (dm)</item>
+        <item>Meter (m)</item>
+        <item>Decameter (dam)</item>
+        <item>Hectometer (hm)</item>
+        <item>Kilometer (km)</item>
+        <item>Inch (in)</item>
+        <item>Foot (ft)</item>
+        <item>Yard (yd)</item>
+        <item>Mile (mi)</item>
+        <item>Fathom (ftm)</item>
+        <item>Nautical mile</item>
+        <item>Cubit (ancient)</item>
+        <item>Span (ancient)</item>
+        <item>Finger (ancient)</item>
+        <item>Hand (ancient)</item>
+        <item>Pace (ancient)</item>
+        <item>Astronomical unit (AU)</item>
+        <item>Light year (ly)</item>
+        <item>Parsec (pc)</item>
+        <item>Astronomical league</item>
+        <item>Light minute</item>
+        <item>Light second</item>
+        <item>Angstrom (Å)</item>
+        <item>Fermi (fm)</item>
+        <item>Micron (µm)</item>
+        <item>Thou (th)</item>
+        <item>Chain (ch)</item>
+        <item>Link (li)</item>
+        <item>Rod or Perch (rd)</item>
+        <item>Furlong (fur)</item>
+        <item>Handbreadth</item>
+        <item>Fingerbreadth</item>
+        <item>Cubit (Hebrew)</item>
+        <item>Cubit (Egyptian)</item>
+        <item>Arshin (Russian)</item>
+        <item>Li (Chinese)</item>
+        <item>Zhang (Chinese)</item>
+        <item>Chi (Chinese)</item>
+        <item>Bu (Chinese)</item>
+        <item>Survey foot</item>
+        <item>US survey mile</item>
+    </string-array>
+</resources>
